@@ -16,12 +16,13 @@ SIGSAC is an academic club within the Department of Electrical Engineering and C
 
 ## Cadet-in-charge
 
-CDT Paul Tan
+- CDT Paul Tan
 
 ## Assistant Cadet-in-charge
 
-CDT Daniel Chung\
-CDT Huram-Abi Nzia Yotchoum
+- CDT Daniel Chung
+
+- CDT Huram-Abi Nzia Yotchoum
 
 ## Officer-in-charge
 
