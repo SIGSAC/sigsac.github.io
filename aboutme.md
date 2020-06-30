@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About SIGSAC
-subtitle: 
 ---
 
 # What does SIGSAC stand for?
@@ -17,12 +16,11 @@ SIGSAC is an academic club within the Department of Electrical Engineering and C
 
 ### Cadets
 
-<p>
-CDT Paul Tan<br />
-CDT Daniel Chung<br />
-CDT Samantha Burger<br />
-CDT Huram-abi Nzia Yotchoum<br />
-<p>
+
+CDT Paul Tan \\
+CDT Daniel Chung \\
+CDT Samantha Burger \\
+CDT Huram-abi Nzia Yotchoum \\
 
 ### Officers
 
