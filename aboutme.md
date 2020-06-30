@@ -14,15 +14,11 @@ SIGSAC is an academic club within the Department of Electrical Engineering and C
 
 # Who is leading SIGSAC?
 
-## Cadet-in-charge
+### Cadets
 
-- CDT Paul Tan
+CDT Paul Tan
+CDT Daniel Chung
+CDT Samantha Burger
+CDT Huram-abi Nzia Yotchoum
 
-## Assistant Cadet-in-charge
-
-- CDT Daniel Chung
-
-- CDT Huram-Abi Nzia Yotchoum
-
-## Officer-in-charge
-
+### Officers
