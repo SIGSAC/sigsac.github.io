@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About SIGSAC
-subtitle: Learn more about West Point SIGSAC 
+title: Learn more about West Point SIGSAC
+subtitle: 
 ---
 
 # What does SIGSAC stand for?
