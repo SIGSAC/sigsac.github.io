@@ -14,6 +14,7 @@ SIGSAC is an academic club within the Department of Electrical Engineering and C
 
 # Who is leading SIGSAC?
 
+
 ### Cadets
 
 <p>
