@@ -22,3 +22,5 @@ CDT Samantha Burger
 CDT Huram-abi Nzia Yotchoum
 
 ### Officers
+
+LTC Jonathan Sloan
