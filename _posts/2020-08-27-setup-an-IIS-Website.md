@@ -77,12 +77,12 @@ Open a browser tab, and navigate to `http://localhost` in the search bar, and yo
 <p align="center"><img src="/assets/meeting1/images/IISAddSite.png" height="450"><img src="/assets/meeting1/images/IISAddSiteFilled.png" height="450"></p>
 
 
-6. Download the sample html webpage [here](https://raw.githubusercontent.com/SIGSAC/SIGSAC/master/5.%20Your%20Very%20Own%20Website/Exercise/assets/files/index.html?token=ANDKV24Y6KXOBCODH3ROX6K7I6ZIY), and place it into the new directory, `C:\Websites\MyWebsite`
+6. Download the sample html webpage [here](https://raw.githubusercontent.com/SIGSAC/sigsac.github.io/master/assets/meeting1/files/index.html), and place it into the new directory, `C:\Websites\MyWebsite`
 7. Navigate to `http://localhost` once more and you should see your new website. Congrats!
 
 ## **Troubleshooting**
 
-
+As of 27AUG2020, all iterations of this guide have been working. Issues will be addressed into the future.
 
 ## **Uninstalling IIS**
 
@@ -93,6 +93,6 @@ Open a browser tab, and navigate to `http://localhost` in the search bar, and yo
 - Allow computer to reboot as necessary.
 
 
-<!--So what does IIS do? It simply shows people who show up, the files that live in your websites directory. Think of it as someone showing up to your house, and then looking at your doormat. -->
+<!--So what does IIS do? It simply shows people who show up, the files that live in your websites directory. Think of it as someone showing up to your house, and then looking at your doormat for information. -->
 
 <!--Also, congrats if you found this lmao -->
