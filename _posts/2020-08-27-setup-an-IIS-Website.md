@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Meeting #1: Windows IIS
+title: Meeting 1, Hello World!
 subtitle: Setting up a webpage using Windows Internet Information Services (IIS)
-tags: [Windows, web]
+tags: [windows, web]
 comments: true
 published: true
 ---
 
-# Setting up a webpage in Windows Internet Information Services (IIS)
+When visiting a webpage on the internet, you are accessing files on someone else's computer. Taking this basic concept into mind, we will be creating our own webpage using Windows IIS.
 
 *Written and tested by yours truly, [43y3s](https://github.com/incub4t0r)*
 
