@@ -28,7 +28,7 @@ When visiting a webpage on the internet, you are accessing files on someone else
 3.  Check the box to filled, and ensure that everything except FTP is filled as well.
 
 
-<p align="center"><img src="assets/images/windowsfeatures.png" height="400"></p>
+<p align="center"><img src="assets/meeting1/images/windowsfeatures.png" height="400"></p>
 
 
 4.  Press OK, and reboot computer.
@@ -38,7 +38,7 @@ When visiting a webpage on the internet, you are accessing files on someone else
 Open a browser tab, and navigate to `http://localhost` in the search bar, and you should be met with a blue webpage shown below.
 
 
-<p align="center"><img src="assets/images/iisstart.png" height="400"></p>
+<p align="center"><img src="assets/meeting1/images/iisstart.png" height="400"></p>
 
 
 ## **Creating our first website**
@@ -49,7 +49,7 @@ Open a browser tab, and navigate to `http://localhost` in the search bar, and yo
 - Before configuring IIS, we need to create a directory to host our website files. Open File Explorer, navigate to `This PC`, `Windows (C:)`, then create a new folder named `Websites`. Inside of that folder, create a new folder named `MyWebsite`. All your website files will live inside of this directory.
 
 
-<p align="center"><img src="assets/images/windowdir.png" height="400"><img src="assets/images/windowsnewfolder.png" height="400"></p>
+<p align="center"><img src="assets/meeting1/images/windowdir.png" height="400"><img src="assets/meeting1/images/windowsnewfolder.png" height="400"></p>
 
 
 ### **Making the site**
@@ -58,21 +58,21 @@ Open a browser tab, and navigate to `http://localhost` in the search bar, and yo
 2. Hit the windows key and type in `IIS` and select `Internet Information Services (IIS) Manager`, which should bring up a control panel for all IIS services.
 
 
-<p align="center"><img src="assets/images/IISManager.png" height="400"></p>
+<p align="center"><img src="assets/meeting1/images/IISManager.png" height="400"></p>
 
 
 3. ***Disable the `Default Web Site` by right clicking `Default Web Site`, selecting `Manage Website`, then `Stop`***
 
 
-<p align="center"><img src="assets/images/disabledefault.png" height="400"></p>
+<p align="center"><img src="assets/meeting1/images/disabledefault.png" height="400"></p>
 
 
 4. Right click on `Sites`, and select `Add Website`. This should bring up a control panel named `Add Website`, shown below.
 
 
-<p align="center"><img src="assets/images/IISSites.png" width="400"></p>
+<p align="center"><img src="assets/meeting1/images/IISSites.png" width="400"></p>
 
-<p align="center"><img src="assets/images/IISAddSite.png" height="450"><img src="assets/images/IISAddSiteFilled.png" height="450"></p>
+<p align="center"><img src="assets/meeting1/images/IISAddSite.png" height="450"><img src="assets/meeting1/images/IISAddSiteFilled.png" height="450"></p>
 
 
 6. Download the sample html webpage [here](https://raw.githubusercontent.com/SIGSAC/SIGSAC/master/5.%20Your%20Very%20Own%20Website/Exercise/assets/files/index.html?token=ANDKV24Y6KXOBCODH3ROX6K7I6ZIY), and place it into the new directory, `C:\Websites\MyWebsite`
