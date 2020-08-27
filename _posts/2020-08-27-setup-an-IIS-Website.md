@@ -9,6 +9,8 @@ published: true
 
 When visiting a webpage on the internet, you are accessing files on someone else's computer. Taking this basic concept into mind, we will be creating our own webpage using Windows IIS.
 
+Powerpoint download [link](https://usarmywestpoint-my.sharepoint.com/:p:/g/personal/paul_tan_westpoint_edu/EaNWO4GdhYFGkAlXWsDsfiYBWuawaGLnPvBjBfkRL7P0dw?e=52j5US)
+
 *Written and tested by yours truly, [43y3s](https://github.com/incub4t0r)*
 
 ## **Table of Contents**
