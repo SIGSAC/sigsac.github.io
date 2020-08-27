@@ -16,11 +16,10 @@ SIGSAC is an academic club within the Department of Electrical Engineering and C
 
 ### Cadets
 
-
 CDT Paul Tan \\
 CDT Daniel Chung \\
 CDT Samantha Burger \\
-CDT Huram-abi Nzia Yotchoum \\
+CDT Huram-abi Nzia Yotchoum 
 
 ### Officers
 
