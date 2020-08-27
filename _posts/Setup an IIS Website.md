@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Meeting #1: Windows IIS
+subtitle: Setting up a webpage using Windows Internet Information Services (IIS)
+tags: [Windows, web]
 comments: true
 published: true
 ---
