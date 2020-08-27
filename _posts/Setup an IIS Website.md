@@ -1,3 +1,14 @@
+---
+layout: post
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+published: true
+---
+
 # Setting up a webpage in Windows Internet Information Services (IIS)
 
 *Written and tested by yours truly, [43y3s](https://github.com/incub4t0r)*
